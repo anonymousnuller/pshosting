@@ -1,0 +1,26 @@
+{
+  "name": "ang3/php-xmlrpc-client",
+  "description": "PHP XML-RPC client",
+  "keywords": ["php","xmlrpc", "xml", "rpc", "client"],
+  "type": "library",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Joanis Rouanet",
+      "email": "joanis.ang3@gmail.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "Ang3\\Component\\XmlRpc\\": "src/"
+    }
+  },
+  "require": {
+    "php": "^7.2|^8.0",
+    "ext-xmlrpc": "*"
+  },
+  "require-dev": {
+    "roave/security-advisories": "dev-master",
+    "symfony/phpunit-bridge": "^3.4 || ^4.0"
+  }
+}

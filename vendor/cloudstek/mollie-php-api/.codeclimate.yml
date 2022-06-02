@@ -1,0 +1,35 @@
+engines:
+
+  duplication:
+    enabled: true
+    config:
+      languages:
+        - php
+    exclude_paths:
+      - tests/
+
+  fixme:
+    enabled: true
+
+  phpcodesniffer:
+    enabled: true
+    config:
+      file_exstensions: "php"
+      standard: "phpcs.xml"
+    exclude_paths:
+      - tests/
+
+  phpmd:
+    enabled: true
+    config:
+      file_extensions: "php"
+    exclude_paths:
+      - tests/
+
+ratings:
+  paths:
+    - src/**/*.php
+
+exclude_paths:
+  - vendor/
+  - build/

@@ -1,0 +1,28 @@
+{
+	"name": "paymentfont",
+	"description": "PaymentFont - A sleek webfont for your favourite payment operators and methods",
+	"version": "1.2.5",
+	"keywords": [
+		"payment",
+		"webfont",
+		"font",
+		"icon"
+	],
+	"homepage": "http://paymentfont.io",
+	"dependencies": {},
+	"devDependencies": {},
+	"license": ["OFL-1.1", "MIT", "CC-BY-3.0"],
+	"main": [
+		"scss/paymentfont.scss"
+	],
+	"ignore": [
+		"*/.*",
+		"*.png",
+		"*.json",
+		"src",
+		"*.yml",
+		"Gemfile",
+		"Gemfile.lock",
+		"*.md"
+	]
+}

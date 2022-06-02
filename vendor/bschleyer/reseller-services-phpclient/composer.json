@@ -1,0 +1,38 @@
+{
+    "name": "bschleyer/reseller-services-phpclient",
+    "description": "A full-featured implementation of the ResellerServices API",
+    "license": "BSD-2-Clause",
+    "type": "library",
+    "keywords": ["Reselling", "Hosting", "Reseller-Services", "PHP", "API", "Domain"],
+    "minimum-stability": "stable",
+    "prefer-stable": true,
+    "authors": [
+        {
+            "name": "Bastian Leicht",
+            "email": "mail@bastianleicht.de",
+            "homepage": "https://bastianleicht.de"
+        },
+        {
+            "name": "Bjoern Schleyer",
+            "email": "mail@bschleyer.de",
+            "homepage": "https://www.bschleyer.de"
+        }
+    ],
+    "support": {
+        "issues": "https://github.com/bschleyer/reseller-services-phpclient/issues",
+        "source": "https://github.com/bschleyer/reseller-services-phpclient"
+    },
+    "require": {
+        "php": ">=7.2",
+        "guzzlehttp/guzzle": "^6.3",
+        "ext-json": "*"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^9.5.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "ResellerServices\\": "src/"
+        }
+    }
+}

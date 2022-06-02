@@ -1,0 +1,37 @@
+{
+  "name": "alexanderpoellmann/paymentfont",
+  "description": "PaymentFont - A sleek webfont for your favourite payment operators and methods",
+  "version": "1.2.5",
+  "keywords": [
+    "payment",
+    "webfont",
+    "font",
+    "icon"
+  ],
+  "homepage": "http://paymentfont.io",
+  "authors": [
+    {
+      "name": "Alexander Manfred Poellmann",
+      "role": "Developer",
+      "homepage": "http://twitter.com/AMPoellmann"
+    }
+  ],
+  "dependencies": {},
+  "devDependencies": {},
+  "license": ["OFL-1.1", "MIT"],
+  "main": [
+    "./css/*",
+    "./fonts/*",
+    "./sass/*"
+  ],
+    "ignore": [
+    "*/.*",
+    "*.png",
+    "*.json",
+    "src",
+    "*.yml",
+    "Gemfile",
+    "Gemfile.lock",
+    "*.md"
+  ]
+}

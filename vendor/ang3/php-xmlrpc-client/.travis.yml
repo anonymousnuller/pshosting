@@ -1,0 +1,15 @@
+language: php
+
+php:
+  - 7.2
+  - 7.3
+  - 7.4
+  - 8.0
+
+before_install:
+  - if [[ ${TRAVIS_PHP_VERSION:0:1} == "8" ]]; then pecl install xmlrpc-1.0.0RC2; fi
+  - composer self-update
+  - composer install
+
+install:
+  - php -d memory_limit=-1 $(phpenv which composer) install --no-suggest --prefer-dist
