@@ -7,6 +7,8 @@ Woher wir dies haben, sagen wir nicht, na ja, wir sind ja anonymousnuller, wir w
 
 Deshalb laden wir es hier hoch
 
+Basiert auf Red-Host https://github.com/Schleyer-EDV/redhost-panel nur die Ordner wurde abgeändert, sonst ist das dasselbe wie redhost
+
 Was kann das Panel
 - KVM/LXC via Proxmox 
 - hat die mollie API drinnen
