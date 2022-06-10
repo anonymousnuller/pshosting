@@ -1,15 +1,13 @@
-pshosting
+Prosidehosting
 
 
+Wurde von einem Björn Schleyer angeblich entwickelt, es wurde für Prosidehosting. Entwickelt. Er darf es aber jetzt nicht benutzen!
 
-wurde von einem Björn Schleyer angeblich entwickelt, es wurde mehrfach weitergegeben!
-
-Und einer der es jetzt nochmal weitergegeben hat soll jetzt angezeigt werden
-dies finden wir scheiße!
+Woher wir dies haben, sagen wir nicht, na ja, wir sind ja anonymousnuller, wir wehen ja dumm, wenn wir es sagen würden
 
 Deshalb laden wir es hier hoch
 
-was kann das Panel
+Was kann das Panel
 - KVM/LXC via Proxmox 
 - hat die mollie API drinnen
 - hat ein ticket system
