@@ -19,24 +19,24 @@ include BASE_PATH.'software/controller/PageController.php';
                             <h4>Angaben nach Dienstanbieter im Sinne gemäß §5 TMG</h4>
                             <br>
                                 <p><strong>Betreiber:</strong><br>
-                                    ProSideHosting<br>
-                                    Niclas Findeisen<br>
-                                    Bonhoefferstraße 48<br>
-									99427 Weimar<br>
+                                     MusterHosting<br>
+                                    Max Musterman<br>
+                                     Musterstraße 48<br>
+									99427  Musterstadt<br>
                                     Deutschland<br>
                                     <br>
 
                                     <strong>Vertreten durch:</strong><br>
-                                    Florian Bach - TropicSolutions, vertretungsberechtigter Einzelunternehmer<br><br>
+                                   Max Musterman - <br><br>
 									
                                     <strong>Inhaltlicher Verantwortlicher gem. § 55 II RStV:</strong><br>
-                                    Niclas Findeisen, Anschrift wie obenstehend.<br>
+                                    Max Musterman, Anschrift wie obenstehend.<br>
                                     <br>
                                     <strong>Kontakt:</strong><br>
                                     E-Mail: <a href="mailto:kontakt@prosidehosting.de">kontakt@prosidehosting.de</a><br>
                                     <br>
 									
-									<strong>Einnahmen werden automatisch an TropicSolutions übergeben.</strong><br>
+									
 
                                     <br>
                                     <br>
